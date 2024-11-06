@@ -4,6 +4,6 @@ export default class Character {
     this.name = name;
     this.description = description;
     this.imageUrl = imageUrl;
-    this.comicsAppearedIn = comicsAppearedIn; // Список комиксов
+    this.comicsAppearedIn = comicsAppearedIn;
   }
 }
